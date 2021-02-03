@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source code", url="https://github.com/okay-retard/SongBot"
+                        text="owner", url="https://t.me/nk_guy"
                     )
                 ]
             ]
