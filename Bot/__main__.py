@@ -9,9 +9,9 @@ from Bot.utils import ignore_blacklisted_users
 from Bot.sql.chat_sql import add_chat_to_db
 
 start_text = """
-Hey [{}](tg://user?id={}), I can help you get your desired song right in the chat.
+Hey [{}](tg://user?id={}),
 Just send me the song name you want to download.
-Eg: ```/song song name```
+Eg: ```/song paid my dues```
 """
 
 owner_help = """
